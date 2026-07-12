@@ -1,0 +1,4 @@
+# Зависимости СЕРВЕРА (крутится у тебя на хостинге). Только тут есть доступ к Neon.
+fastapi
+uvicorn[standard]
+psycopg2-binary
